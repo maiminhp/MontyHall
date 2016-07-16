@@ -1,5 +1,3 @@
-# Name: Minh Pham
-# Email: mtp2142@columbia.edu
 # module to prove that switching doors in a
 # MontyHall gameshow always yields higher chances of winning
 ########################
